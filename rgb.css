@@ -1,0 +1,56 @@
+.main
+{
+	border-radius: 10px;
+	height: 240px;
+	width: 200px;
+	color: white;
+	background: #BAB86C;
+	display: grid;
+	place-items: center;
+	margin-top: 150px;
+	font-size: 28px;
+}
+
+.colorinput::placeholder
+{
+  text-align: center;
+  color:white;
+}
+
+.colorinput
+{
+  text-align: center;
+}
+
+
+#red{
+	background-color: red;
+}
+
+#green{
+	background-color: green;
+}
+
+#blue{
+	background-color: blue;
+}
+
+
+/*.main
+{
+	height: 218px;
+	width: 250px;
+	color: white;
+	background: rgb(0,0,0);
+	place-items: center;
+	margin-top: 150px;
+	padding-top: 50px;
+}
+.container {
+ display: flex; align-items: center; margin: 20px 0; 
+}
+#red,#green,#blue  
+{
+  text-align: center;
+  margin-bottom: 1em;
+}*/
